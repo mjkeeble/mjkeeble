@@ -11,7 +11,7 @@ I am also a fairly untalented blues gutarist and songwriter, but this probably i
 
 What I offer is
 * Front- and back-end development skills**
- <img width="601" alt="Screenshot 2021-03-31 at 9 37 18" src="https://user-images.githubusercontent.com/66460031/113108728-952a4800-9205-11eb-8c64-85ae86e7d5b1.png">
+* <img width="601" alt="Screenshot 2021-03-31 at 9 37 18" src="https://user-images.githubusercontent.com/66460031/113108728-952a4800-9205-11eb-8c64-85ae86e7d5b1.png">
 * **Learning ability** and enthusiasm to master new technologies and tools
 * **A 'business partner' mindset** - commercial, customer-oriented with a strategic perspective
 * **Team skills** - I drive achievement in ad hoc inter-disciplinary and cross-organisational teams
