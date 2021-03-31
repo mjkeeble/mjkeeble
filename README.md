@@ -1,9 +1,8 @@
-# Mark J. Keeble
-### Welcome to my GitHub profile!
+<img width="1281" alt="Screenshot 2021-03-26 at 11 41 52" src="https://user-images.githubusercontent.com/66460031/113119695-07545a00-9211-11eb-9dc0-a2cdba00818a.png">
+
+# Welcome to my GitHub profile!
 
 I am an experienced finance professional turned web developer based in the Berlin area.
-
-![DSC_3492 resized2@0 5x](https://user-images.githubusercontent.com/66460031/113111649-ae80c380-9208-11eb-84b1-f70950950d63.png)
 
 I am also a fairly untalented blues guitarist and songwriter, but this probably isn't the place for that! :notes: ¯\\\_(ツ)\_/¯ :notes:
 
