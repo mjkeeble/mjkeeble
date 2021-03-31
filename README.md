@@ -12,7 +12,7 @@ I am also a fairly untalented blues guitarist and songwriter, but this probably 
 #### I recently completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and I'm looking to bring my skills, knowledge, creativity and desire to learn to a team in the Berlin area.
 
 What I offer is
-* Front- and back-end development skills**
+* **Front- and back-end development skills**
  <img width="601" alt="Screenshot 2021-03-31 at 9 37 18" src="https://user-images.githubusercontent.com/66460031/113108728-952a4800-9205-11eb-8c64-85ae86e7d5b1.png">
  
 * **Learning ability** and enthusiasm to master new technologies and tools
