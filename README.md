@@ -23,7 +23,7 @@ What I offer is
 
 ---
 
-###If you have place for me in your team please reach out to me at <mark@markjkeeble.de>
+### If you have place for me in your team please reach out to me at <mark@markjkeeble.de>
 
 I look forward to hearing from you!
 
