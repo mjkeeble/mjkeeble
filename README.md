@@ -17,7 +17,7 @@ What I offer is
 * **Learning ability** and enthusiasm to master new technologies and tools
 * **A 'business partner' mindset** - commercial, customer-oriented with a strategic perspective
 * **Team skills** - I drive achievement in ad hoc inter-disciplinary and cross-organisational teams
-* **Analysis** - I evalate complex interdependencies and devise appropriate **problem-solving** strategies
+* **Analysis** - I evaluate complex interdependencies and devise appropriate **problem-solving** strategies
 * **Communication** - I communicate complex and technical concepts in clear and straightforward terms, have worked extensively with technical and commercial teams and advised management boards in major public- and private-sector organisations
 
 ---
