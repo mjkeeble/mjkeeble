@@ -4,11 +4,11 @@
 
 I am an experienced finance professional turned web developer based in the Berlin area.
 
-I am also a fairly untalented blues guitarist and songwriter, but this probably isn't the place for that! :notes: ¯\\\_(ツ)\_/¯ :notes:
+I am also a marginally talented blues [guitarist and songwriter](https://soundcloud.com/markjkeeble), but this probably isn't the place for that! :notes: ¯\\\_(ツ)\_/¯ :notes:
 
 ---
 
-#### In late 2020 I completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and from July 2021 I am proud to be part of the development team at [RightNow](https://https://www.rightnow.de) in Berlin.
+#### In late 2020 I completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and from July 2021 I am proud to be part of the development team at [RightNow](https://www.rightnow.de) in Berlin.
 
 What I offer is
 * **Front- and back-end development skills**
