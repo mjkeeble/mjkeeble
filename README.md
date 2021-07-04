@@ -8,7 +8,7 @@ I am also a fairly untalented blues guitarist and songwriter, but this probably 
 
 ---
 
-#### I recently completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and I'm looking to bring my skills, knowledge, creativity and desire to learn to a team in the Berlin area.
+#### In late 2020 I completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and from July 2021 I am proud to be part of the development team at [RightNow](https://https://www.rightnow.de) in Berlin.
 
 What I offer is
 * **Front- and back-end development skills**
@@ -22,7 +22,7 @@ What I offer is
 
 ---
 
-### If you have place for me in your team please reach out to me at <mark@markjkeeble.de>
+### Feel free to reach out to me at <mark@markjkeeble.de>
 
 I look forward to hearing from you!
 
