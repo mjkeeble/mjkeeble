@@ -31,7 +31,7 @@ What I offer is
 
 ---
 
-### Feel free to reach out to me at <mark@markjkeeble.de>
+### Feel free to reach out to me at <mark@keeble.de>
 
 I look forward to hearing from you!
 
