@@ -8,7 +8,7 @@ I am also a marginally talented blues [guitarist and songwriter](https://soundcl
 
 ---
 
-#### In late 2020 I completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and from July 2021 I am proud to be part of the development team at [RightNow](https://www.rightnow.de) in Berlin.
+#### In late 2020 I completed an intensive web development bootcamp at [Ironhack Berlin](https://ironhack.com/en/berlin) and from July 2021 until June 2024 I was proud to be part of the development team at [RightNow](https://www.rightnow.de) in Berlin.
 
 What I offer is
 * **Front- and back-end development skills**
@@ -17,7 +17,7 @@ What I offer is
   * Bootstrap, TailwindCSS, Bulma, BlueprintJS
   * Javascript, TypeScript
   * Node.js, Express
-  * PostgreSQL, Microsoft SQL Server, MongoDB
+  * PostgreSQL, Microsoft SQL Server, SQLite, MongoDB
   * REST and GraphQL API development
   * Unit (Jest) and end-to-end (Cypress) testing
   * Git/GitHub version management
@@ -31,7 +31,7 @@ What I offer is
 
 ---
 
-### Feel free to reach out to me at <mark@keeble.de>
+### Feel free to reach out to me at <mark@keeble.email>
 
 I look forward to hearing from you!
 
